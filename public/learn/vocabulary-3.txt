@@ -1,0 +1,130 @@
+# Di chuyển & hỏi đường
+bus|bʌs|xe buýt|Which bus goes downtown?
+train|treɪn|tàu hỏa|The train leaves at nine.
+taxi|ˈtæksi|taxi|Let's take a taxi.
+subway|ˈsʌbweɪ|tàu điện ngầm (Mỹ)|Is there a subway station nearby?
+bike|baɪk|xe đạp (trong ngữ cảnh này)|I ride my bike to school.
+car|kɑr|ô tô|We came by car.
+ticket|ˈtɪkɪt|vé|Where can I buy a ticket?
+station|ˈsteɪʃən|nhà ga / trạm|Meet me at the station.
+bus stop|bʌs stɑp|trạm xe buýt|The bus stop is across the street.
+traffic|ˈtræfɪk|giao thông / xe cộ|There's a lot of traffic today.
+get on|ɡet ɑn|lên xe buýt / tàu|Get on the bus here.
+get off|ɡet ɔf|xuống xe buýt / tàu|We get off at the next stop.
+turn left|tɝn left|rẽ trái|Turn left at the light.
+turn right|tɝn raɪt|rẽ phải|Turn right after the bank.
+go straight|ɡoʊ streɪt|đi thẳng|Go straight for two blocks.
+across from|əˈkrɔs frʌm|đối diện|The cafe is across from the park.
+next to|nekst tuː|bên cạnh|It's next to the bookstore.
+between|bɪˈtwiːn|ở giữa|The shop is between two cafes.
+nearby|ˌnɪrˈbaɪ|gần đây|Is there a pharmacy nearby?
+far|fɑr|xa|Is it far from here?
+corner|ˈkɔrnər|góc đường / góc|Turn at the next corner.
+intersection|ˌɪntərˈsekʃən|giao lộ|Stop at the intersection.
+on my way|ɑn maɪ weɪ|đang trên đường đến|I'm on my way.
+pick up|pɪk ʌp|đón / lấy|Can you pick me up at five?
+drop off|drɑp ɔf|chở đến và cho xuống / giao|Please drop me off here.
+# Du lịch & lưu trú
+trip|trɪp|chuyến đi|How was your trip?
+travel|ˈtrævəl|du lịch / đi lại|I like to travel by train.
+vacation|veɪˈkeɪʃən|kỳ nghỉ (Mỹ)|We're on vacation this week.
+airport|ˈerpɔrt|sân bay|How far is the airport?
+flight|flaɪt|chuyến bay|Our flight leaves at noon.
+passport|ˈpæspɔrt|hộ chiếu|Here's my passport.
+luggage|ˈlʌɡɪdʒ|hành lý (không đếm được)|Where can I leave my luggage?
+suitcase|ˈsuːtkeɪs|va li|This suitcase is mine.
+boarding pass|ˈbɔrdɪŋ pæs|thẻ lên máy bay|May I see your boarding pass?
+gate|ɡeɪt|cửa ra máy bay / cổng|Our flight leaves from gate ten.
+departure|dɪˈpɑrtʃər|sự khởi hành|What's the departure time?
+arrival|əˈraɪvəl|sự đến nơi|Our arrival time is six.
+delayed|dɪˈleɪd|bị chậm / hoãn|Our flight is delayed.
+hotel|hoʊˈtel|khách sạn|We're staying at a small hotel.
+book a room|bʊk ə ruːm|đặt phòng|I'd like to book a room.
+check in|tʃek ɪn|làm thủ tục nhận phòng / chuyến bay|What time can we check in?
+check out|tʃek aʊt|làm thủ tục trả phòng|We need to check out by eleven.
+front desk|frʌnt desk|quầy lễ tân|Please ask at the front desk.
+room number|ruːm ˈnʌmbər|số phòng|What's your room number?
+single room|ˈsɪŋɡəl ruːm|phòng cho một người|I'd like a single room.
+double room|ˈdʌbəl ruːm|phòng cho hai người, thường một giường đôi|Is breakfast included with the double room?
+included|ɪnˈkluːdɪd|được bao gồm|Is breakfast included?
+Wi-Fi password|ˈwaɪ faɪ ˈpæswɝd|mật khẩu Wi-Fi|What's the Wi-Fi password?
+sightseeing|ˈsaɪtˌsiːɪŋ|tham quan|We're going sightseeing tomorrow.
+map|mæp|bản đồ|Could you show me on the map?
+# Thời tiết & thiên nhiên
+weather|ˈweðər|thời tiết|What's the weather like?
+sunny|ˈsʌni|có nắng|It's sunny today.
+cloudy|ˈklaʊdi|nhiều mây|It looks cloudy outside.
+rainy|ˈreɪni|có mưa|It's a rainy day.
+windy|ˈwɪndi|nhiều gió|It's windy at the beach.
+hot|hɑt|nóng|It's hot this afternoon.
+warm|wɔrm|ấm|The water is warm.
+cool|kuːl|mát|It's cool in the evening.
+cold|koʊld|lạnh|Are you cold?
+humid|ˈhjuːmɪd|ẩm / oi ẩm|It's very humid today.
+rain|reɪn|mưa|I think it's going to rain.
+snow|snoʊ|tuyết / tuyết rơi|There's snow on the mountain.
+storm|stɔrm|bão / giông|A storm is coming.
+temperature|ˈtemprətʃər|nhiệt độ|What's the temperature outside?
+forecast|ˈfɔrkæst|dự báo|The forecast says rain tomorrow.
+season|ˈsiːzən|mùa|What's your favorite season?
+spring|sprɪŋ|mùa xuân|Flowers bloom in spring.
+summer|ˈsʌmər|mùa hè|We visit the beach in summer.
+fall|fɔl|mùa thu (Mỹ)|The leaves change color in fall.
+winter|ˈwɪntər|mùa đông|It gets cold in winter.
+beach|biːtʃ|bãi biển|Let's go to the beach.
+mountain|ˈmaʊntən|núi|We can see the mountain from here.
+river|ˈrɪvər|sông|There's a path along the river.
+park|pɑrk|công viên|The park is open today.
+tree|triː|cây|Let's sit under that tree.
+# Cảm xúc & tính cách
+happy|ˈhæpi|vui / hạnh phúc|I'm happy to hear that.
+sad|sæd|buồn|I feel sad today.
+excited|ɪkˈsaɪtɪd|háo hức|I'm excited about the trip.
+worried|ˈwɝid|lo lắng|I'm worried about the exam.
+nervous|ˈnɝvəs|hồi hộp / căng thẳng|I get nervous before presentations.
+relaxed|rɪˈlækst|thư giãn|I feel relaxed after a walk.
+tired|ˈtaɪrd|mệt|I'm a bit tired.
+bored|bɔrd|cảm thấy chán|I'm bored. Let's do something.
+angry|ˈæŋɡri|tức giận|He's angry about the mistake.
+upset|ʌpˈset|buồn bực|You seem upset. Are you okay?
+surprised|sərˈpraɪzd|ngạc nhiên|I was surprised by the news.
+confused|kənˈfjuːzd|bối rối / chưa hiểu|I'm confused about the instructions.
+proud|praʊd|tự hào|I'm proud of my progress.
+shy|ʃaɪ|ngại ngùng|I'm shy around new people.
+friendly|ˈfrendli|thân thiện|Everyone here is friendly.
+kind|kaɪnd|tốt bụng|That was kind of you.
+helpful|ˈhelpfəl|hay giúp đỡ / hữu ích|The staff were helpful.
+patient|ˈpeɪʃənt|kiên nhẫn|Thanks for being patient.
+honest|ˈɑnɪst|trung thực|Please be honest with me.
+funny|ˈfʌni|hài hước|That story was funny.
+quiet|ˈkwaɪət|yên lặng / ít nói|She's quiet in large groups.
+confident|ˈkɑnfɪdənt|tự tin|I feel more confident now.
+feel like|fiːl laɪk|muốn; theo sau danh từ hoặc V-ing|I feel like watching a movie.
+in the mood|ɪn ðə muːd|có hứng; dùng for hoặc to + động từ|I'm in the mood for music.
+look forward to|lʊk ˈfɔrwərd tuː|mong đợi; theo sau danh từ hoặc V-ing|I look forward to seeing you.
+# Cơ thể & nhu cầu sức khỏe
+head|hed|đầu|My head hurts.
+eye|aɪ|mắt|There's something in my eye.
+ear|ɪr|tai|My left ear hurts.
+nose|noʊz|mũi|My nose is blocked.
+mouth|maʊθ|miệng|Open your mouth, please.
+tooth|tuːθ|răng; số nhiều teeth|This tooth hurts.
+hand|hænd|bàn tay|Please wash your hands.
+arm|ɑrm|cánh tay|My arm feels sore.
+leg|leɡ|chân|My legs are tired.
+foot|fʊt|bàn chân; số nhiều feet|My foot hurts when I walk.
+back|bæk|lưng|My back feels better today.
+stomach|ˈstʌmək|bụng / dạ dày|My stomach hurts.
+hungry|ˈhʌŋɡri|đói|I'm hungry. Is lunch ready?
+thirsty|ˈθɝsti|khát|I'm thirsty. Can I have water?
+sleepy|ˈsliːpi|buồn ngủ|I'm getting sleepy.
+sick|sɪk|ốm / không khỏe|I feel sick today.
+headache|ˈhedeɪk|đau đầu|I have a headache.
+fever|ˈfiːvər|sốt|I think I have a fever.
+cough|kɔf|ho / cơn ho|I've had a cough since Monday.
+sore throat|sɔr θroʊt|đau họng|I have a sore throat.
+hurt|hɝt|đau / làm đau|Does it hurt here?
+doctor|ˈdɑktər|bác sĩ|I'd like to see a doctor.
+pharmacy|ˈfɑrməsi|hiệu thuốc|Where's the nearest pharmacy?
+rest|rest|nghỉ ngơi|I need some rest.
+feel better|fiːl ˈbetər|thấy khỏe hơn / dễ chịu hơn|I feel better today.

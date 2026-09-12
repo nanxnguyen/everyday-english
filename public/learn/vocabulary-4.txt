@@ -1,0 +1,130 @@
+# Học tập & luyện tiếng Anh
+school|skuːl|trường học|My school is nearby.
+student|ˈstuːdənt|học sinh / sinh viên|I'm a student.
+teacher|ˈtiːtʃər|giáo viên|Our teacher explains things clearly.
+class|klæs|lớp / buổi học|My class starts at nine.
+lesson|ˈlesən|bài học|Today's lesson is about food.
+course|kɔrs|khóa học|I'm taking an English course.
+homework|ˈhoʊmwɝk|bài tập về nhà (không đếm được)|I need to finish my homework.
+exam|ɪɡˈzæm|bài thi|The exam is next week.
+question|ˈkwestʃən|câu hỏi|Can I ask a question?
+answer|ˈænsər|câu trả lời / trả lời|I don't know the answer.
+learn|lɝn|học / tiếp thu|I want to learn English.
+study|ˈstʌdi|học / nghiên cứu|I study at the library.
+practice|ˈpræktɪs|luyện tập|Let's practice speaking.
+understand|ˌʌndərˈstænd|hiểu|I understand the main idea.
+remember|rɪˈmembər|nhớ|I remember that word.
+forget|fərˈɡet|quên|Don't forget your notebook.
+explain|ɪkˈspleɪn|giải thích|Could you explain this word?
+repeat|rɪˈpiːt|lặp lại|Please repeat the sentence.
+pronounce|prəˈnaʊns|phát âm|How do you pronounce this word?
+spell|spel|đánh vần|How do you spell your name?
+meaning|ˈmiːnɪŋ|nghĩa|What's the meaning of this phrase?
+example|ɪɡˈzæmpəl|ví dụ|Could you give me an example?
+take notes|teɪk noʊts|ghi chép|I take notes during class.
+look up|lʊk ʌp|tra cứu|Let's look up that word.
+make progress|meɪk ˈprɑɡres|tiến bộ|You're making progress.
+# Công việc & làm việc cùng nhau
+job|dʒɑb|công việc / nghề|What's your job?
+work|wɝk|làm việc / công việc|I work from home today.
+office|ˈɔfɪs|văn phòng|The office is on the third floor.
+team|tiːm|nhóm|We have a small team.
+colleague|ˈkɑliːɡ|đồng nghiệp|She's my colleague.
+manager|ˈmænɪdʒər|quản lý|I'll ask my manager.
+meeting|ˈmiːtɪŋ|cuộc họp|The meeting starts in ten minutes.
+task|tæsk|nhiệm vụ|What's the next task?
+project|ˈprɑdʒekt|dự án (danh từ)|We're working on a new project.
+deadline|ˈdedlaɪn|hạn chót|When is the deadline?
+finish|ˈfɪnɪʃ|hoàn thành|I can finish this today.
+start|stɑrt|bắt đầu|Let's start with the first question.
+update|ˈʌpdeɪt|thông tin cập nhật (danh từ)|Here's a quick update.
+problem|ˈprɑbləm|vấn đề|We have a small problem.
+solution|səˈluːʃən|giải pháp|Let's find a solution.
+idea|aɪˈdiːə|ý tưởng|That's a good idea.
+feedback|ˈfiːdbæk|góp ý / phản hồi|Thanks for your feedback.
+agree|əˈɡriː|đồng ý|I agree with you.
+disagree|ˌdɪsəˈɡriː|không đồng ý|I disagree with that point.
+suggest|səˈdʒest|đề xuất; có thể theo sau V-ing|I suggest taking a short break.
+work on|wɝk ɑn|đang làm / tập trung vào|I'm working on the report.
+deal with|diːl wɪð|xử lý|I'll deal with that issue.
+figure out|ˈfɪɡjər aʊt|tìm ra / hiểu ra|Let's figure out what happened.
+follow up|ˈfɑloʊ ʌp|hỏi / xử lý tiếp|I'll follow up with the team tomorrow.
+let me know|let miː noʊ|cho tôi biết nhé|Let me know if you need help.
+# Sở thích & giải trí
+hobby|ˈhɑbi|sở thích|What's your favorite hobby?
+music|ˈmjuːzɪk|âm nhạc|I listen to music at home.
+song|sɔŋ|bài hát|I like this song.
+movie|ˈmuːvi|phim|Let's watch a movie.
+show|ʃoʊ|chương trình / buổi diễn|What show are you watching?
+book|bʊk|sách|I'm reading a good book.
+read|riːd|đọc (dạng hiện tại / nguyên mẫu)|I read before bed.
+listen to|ˈlɪsən tuː|nghe|I listen to podcasts.
+watch TV|wɑtʃ ˌtiːˈviː|xem ti vi|We watch TV after dinner.
+play games|pleɪ ɡeɪmz|chơi trò chơi|We play games on weekends.
+draw|drɔ|vẽ|I like to draw animals.
+paint|peɪnt|vẽ bằng màu / sơn|She likes to paint flowers.
+sing|sɪŋ|hát|Can you sing?
+dance|dæns|nhảy / múa|I love to dance.
+cook|kʊk|nấu ăn|I like to cook for my family.
+bake|beɪk|nướng bánh / nướng trong lò|Let's bake some bread.
+garden|ˈɡɑrdən|khu vườn; làm vườn|We grow flowers in the garden.
+swim|swɪm|bơi|I can swim.
+sport|spɔrt|môn thể thao|What's your favorite sport?
+soccer|ˈsɑkər|bóng đá (Mỹ)|We play soccer after school.
+badminton|ˈbædmɪntən|cầu lông|Do you play badminton?
+take photos|teɪk ˈfoʊtoʊz|chụp ảnh|I like to take photos of trees.
+hang out|hæŋ aʊt|đi chơi / dành thời gian cùng nhau (thân mật)|Let's hang out this weekend.
+be into|biː ˈɪntuː|thích / hứng thú với (thân mật)|I'm into photography.
+give it a try|ɡɪv ɪt ə traɪ|thử làm xem|It looks fun. I'll give it a try.
+# Điện thoại & công nghệ hằng ngày
+phone|foʊn|điện thoại|My phone is in my bag.
+call|kɔl|gọi điện / cuộc gọi|Can I call you later?
+text|tekst|nhắn tin / tin nhắn|Text me when you arrive.
+message|ˈmesɪdʒ|tin nhắn / lời nhắn|I got your message.
+email|ˈiːmeɪl|thư điện tử|I'll send you an email.
+screen|skriːn|màn hình|My screen is frozen.
+battery|ˈbætəri|pin|My battery is low.
+charger|ˈtʃɑrdʒər|bộ sạc|Can I borrow your charger?
+internet|ˈɪntərnet|mạng Internet|The internet is slow today.
+connection|kəˈnekʃən|kết nối|I have a bad connection.
+app|æp|ứng dụng|Which app do you use?
+website|ˈwebsaɪt|trang web|You can find it on the website.
+link|lɪŋk|đường dẫn|Can you send me the link?
+account|əˈkaʊnt|tài khoản|I can't access my account.
+password|ˈpæswɝd|mật khẩu|I forgot my password.
+log in|lɔɡ ɪn|đăng nhập|Please log in to your account.
+log out|lɔɡ aʊt|đăng xuất|Remember to log out.
+download|ˌdaʊnˈloʊd|tải xuống (động từ)|You can download the file here.
+upload|ˌʌpˈloʊd|tải lên (động từ)|Please upload your photo.
+save|seɪv|lưu|Don't forget to save your work.
+delete|dɪˈliːt|xóa|Can I delete this file?
+turn on|tɝn ɑn|bật|Please turn on your camera.
+turn off|tɝn ɔf|tắt|Please turn off your microphone.
+can you hear me|kæn juː hɪr miː|bạn nghe thấy tôi không|Hello, can you hear me?
+you're breaking up|jʊr ˈbreɪkɪŋ ʌp|tiếng bạn bị ngắt quãng khi gọi|You're breaking up. Could you say that again?
+# Phản hồi & nối ý khi trò chuyện
+really|ˈriːəli|thật sao / thực sự|Really? Tell me more.
+exactly|ɪɡˈzæktli|chính xác|Exactly. That's what I mean.
+definitely|ˈdefɪnətli|chắc chắn|I'd definitely like to join.
+maybe|ˈmeɪbi|có lẽ|Maybe we can go tomorrow.
+probably|ˈprɑbəbli|có lẽ / khả năng cao|I'll probably stay home.
+I think|aɪ θɪŋk|tôi nghĩ|I think it's a good idea.
+I guess|aɪ ɡes|tôi đoán / tôi nghĩ vậy|I guess you're right.
+I'm not sure|aɪm nɑt ʃʊr|tôi chưa chắc|I'm not sure about the time.
+it depends|ɪt dɪˈpendz|còn tùy|It depends on the weather.
+that makes sense|ðæt meɪks sens|nghe hợp lý / tôi hiểu lý do rồi|That makes sense. Thanks for explaining.
+sounds good|saʊndz ɡʊd|nghe ổn đấy|Six o'clock? Sounds good.
+fair enough|fer ɪˈnʌf|cũng hợp lý / tôi chấp nhận lý do đó|Fair enough. We can try another day.
+I see|aɪ siː|tôi hiểu rồi|I see. So we need to wait.
+what do you mean|wʌt duː juː miːn|ý bạn là sao; hỏi bằng giọng nhẹ|What do you mean by that?
+could you say that again|kʊd juː seɪ ðæt əˈɡen|bạn nói lại được không|Sorry, could you say that again?
+more slowly|mɔr ˈsloʊli|chậm hơn|Could you speak more slowly?
+let me think|let miː θɪŋk|để tôi nghĩ chút|Let me think. How about Friday?
+by the way|baɪ ðə weɪ|nhân tiện|By the way, how was your trip?
+actually|ˈæktʃuəli|thật ra; thường dùng để đính chính nhẹ|Actually, I live in Hue now.
+anyway|ˈeniweɪ|dù sao / quay lại chuyện chính|Anyway, what time should we meet?
+because|bɪˈkɔz|bởi vì|I'm staying home because it's raining.
+so|soʊ|vì thế / nên|It's late, so let's go home.
+but|bʌt|nhưng|I'd like to go, but I'm busy.
+for example|fər ɪɡˈzæmpəl|ví dụ|I like fruit, for example, apples and mangoes.
+what about|wʌt əˈbaʊt|còn… thì sao / hay là|What about meeting at the park?

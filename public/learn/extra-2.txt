@@ -1,0 +1,130 @@
+# 5
+orange|ˈɔrɪndʒ|quả cam / màu cam|Would you like an orange?
+mango|ˈmæŋɡoʊ|quả xoài|This mango is ripe.
+grapes|ɡreɪps|nho|These grapes are sweet.
+lemon|ˈlemən|quả chanh vàng|Would you like lemon in your tea?
+potato|pəˈteɪtoʊ|khoai tây|I'll have a baked potato.
+tomato|təˈmeɪtoʊ|cà chua|Slice a tomato for the sandwich.
+carrot|ˈkærət|cà rốt|There's a carrot in the soup.
+onion|ˈʌnjən|hành tây|Could you leave out the onion?
+garlic|ˈɡɑrlɪk|tỏi|This sauce has garlic in it.
+salad|ˈsæləd|món rau trộn|I'll have a small salad.
+cheese|tʃiːz|phô mai|Would you like cheese on that?
+butter|ˈbʌtər|bơ|Please pass the butter.
+yogurt|ˈjoʊɡərt|sữa chua|I have yogurt with fruit.
+pork|pɔrk|thịt lợn|Does this dish contain pork?
+seafood|ˈsiːfuːd|hải sản|Do you like seafood?
+shrimp|ʃrɪmp|tôm|The noodles come with shrimp.
+salt|sɔlt|muối|Could you pass the salt?
+pepper|ˈpepər|hạt tiêu / tiêu|Would you like some pepper?
+sugar|ˈʃʊɡər|đường|Do you take sugar in your tea?
+sauce|sɔs|nước sốt|What's in this sauce?
+oil|ɔɪl|dầu|Add a little oil to the pan.
+flour|ˈflaʊər|bột mì|We need flour to make bread.
+crispy|ˈkrɪspi|giòn|These potatoes are crispy.
+ripe|raɪp|chín (trái cây)|Is this banana ripe?
+leftovers|ˈleftˌoʊvərz|đồ ăn còn lại sau bữa|We'll have leftovers for lunch.
+# 6
+plate|pleɪt|đĩa|Could I have a clean plate?
+bowl|boʊl|bát / tô|I'd like a bowl of soup.
+cup|kʌp|tách / cốc có quai|Can I have a cup of tea?
+glass|ɡlæs|ly / cốc thủy tinh|I'd like a glass of water.
+fork|fɔrk|nĩa|Could I have a fork?
+spoon|spuːn|thìa / muỗng|There's a spoon beside your bowl.
+chopsticks|ˈtʃɑpstɪks|đũa|Can I have some chopsticks?
+napkin|ˈnæpkɪn|khăn ăn|Could we have more napkins?
+bottle|ˈbɑtəl|chai|A bottle of water, please.
+portion|ˈpɔrʃən|khẩu phần / phần ăn|Is this portion enough for two?
+main course|meɪn kɔrs|món chính|What would you like for your main course?
+dessert|dɪˈzɝt|món tráng miệng|Would you like dessert?
+drink|drɪŋk|đồ uống / uống|What would you like to drink?
+hot chocolate|hɑt ˈtʃɑklət|sô cô la nóng|I'd like a hot chocolate.
+smoothie|ˈsmuːði|sinh tố|Can I have a mango smoothie?
+sparkling water|ˈspɑrklɪŋ ˈwɔtər|nước có ga|Would you like sparkling water?
+still water|stɪl ˈwɔtər|nước không có ga|Still water, please.
+refill|ˈriːfɪl|lần rót thêm (danh từ)|Could I have a refill?
+medium|ˈmiːdiəm|cỡ vừa|I'll have a medium juice.
+large|lɑrdʒ|cỡ lớn|A large tea, please.
+small|smɔl|nhỏ / cỡ nhỏ|I'd like a small soup.
+anything else|ˈeniθɪŋ els|còn gì nữa không|Would you like anything else?
+that's all|ðæts ɔl|vậy là đủ / chỉ vậy thôi|That's all, thank you.
+I'm full|aɪm fʊl|tôi no rồi|I'm full, but that was delicious.
+could we get a box|kʊd wiː ɡet ə bɑks|cho chúng tôi hộp đựng phần còn lại được không|Could we get a box for the leftovers?
+# 7
+buy|baɪ|mua|Where can I buy a notebook?
+sell|sel|bán|Do you sell umbrellas?
+cost|kɔst|có giá / chi phí|How much does it cost?
+spend|spend|chi tiêu / dành thời gian|I don't want to spend too much.
+afford|əˈfɔrd|có đủ khả năng chi trả|I can't afford that one.
+budget|ˈbʌdʒɪt|ngân sách|What's your budget for the trip?
+total|ˈtoʊtəl|tổng cộng|What's the total?
+amount|əˈmaʊnt|số lượng / số tiền|Please check the amount on the screen.
+coin|kɔɪn|đồng xu|Do you have a one-dollar coin?
+dollar|ˈdɑlər|đô la|It costs one dollar.
+cent|sent|xu; một phần trăm đô la|The price went up by one cent.
+customer|ˈkʌstəmər|khách hàng|The customer is waiting.
+cashier|kæˈʃɪr|thu ngân|Please pay the cashier.
+checkout|ˈtʃekaʊt|quầy / bước thanh toán|The checkout is over there.
+basket|ˈbæskɪt|giỏ|Do you need a basket?
+shopping cart|ˈʃɑpɪŋ kɑrt|xe đẩy / giỏ hàng trực tuyến|Put the milk in the shopping cart.
+shopping list|ˈʃɑpɪŋ lɪst|danh sách cần mua|I forgot my shopping list.
+delivery|dɪˈlɪvəri|giao hàng|Is delivery included?
+shipping fee|ˈʃɪpɪŋ fiː|phí vận chuyển|How much is the shipping fee?
+online|ˌɑnˈlaɪn|trực tuyến|Can I order this online?
+in person|ɪn ˈpɝsən|trực tiếp|I'd rather buy it in person.
+brand|brænd|nhãn hiệu|What brand is this?
+quality|ˈkwɑləti|chất lượng|The quality seems good.
+damaged|ˈdæmɪdʒd|bị hỏng / hư hại|The box arrived damaged.
+keep the receipt|kiːp ðə rɪˈsiːt|giữ biên lai|Please keep the receipt.
+# 8
+hoodie|ˈhʊdi|áo có mũ trùm|I'll bring a hoodie.
+uniform|ˈjuːnəfɔrm|đồng phục|Do you wear a uniform?
+raincoat|ˈreɪnkoʊt|áo mưa|Take your raincoat with you.
+scarf|skɑrf|khăn quàng|I left my scarf on the bus.
+gloves|ɡlʌvz|găng tay|You might need gloves today.
+boots|buːts|ủng / bốt|These boots keep my feet dry.
+sneakers|ˈsniːkərz|giày thể thao (Mỹ)|I wear sneakers to school.
+sandals|ˈsændəlz|dép quai hậu / xăng đan|I packed a pair of sandals.
+slippers|ˈslɪpərz|dép đi trong nhà|You can wear these slippers.
+cap|kæp|mũ lưỡi trai|That's my cap on the table.
+belt|belt|thắt lưng|This belt is too long.
+pocket|ˈpɑkɪt|túi áo / túi quần|My phone is in my pocket.
+zipper|ˈzɪpər|khóa kéo|The zipper is stuck.
+button|ˈbʌtən|cúc áo / nút bấm|A button is missing from my shirt.
+sleeve|sliːv|tay áo|This sleeve is wet.
+cotton|ˈkɑtən|vải bông / cotton|Is this shirt made of cotton?
+wool|wʊl|len|This scarf is made of wool.
+pair|per|đôi / cặp|I need a new pair of shoes.
+loose|luːs|rộng / lỏng|This shirt feels loose.
+tight|taɪt|chật / bó|These shoes are too tight.
+casual|ˈkæʒuəl|thường ngày / không trang trọng|You can wear casual clothes.
+formal|ˈfɔrməl|trang trọng|Do we need formal clothes?
+plain|pleɪn|trơn / không họa tiết|I'd like a plain T-shirt.
+striped|straɪpt|có sọc|I'm looking for a striped shirt.
+match|mætʃ|hợp / đồng bộ|These socks don't match.
+# 9
+Monday|ˈmʌndeɪ|thứ Hai|See you on Monday.
+Tuesday|ˈtuːzdeɪ|thứ Ba|My class is on Tuesday.
+Wednesday|ˈwenzdeɪ|thứ Tư|Are you free on Wednesday?
+Thursday|ˈθɝzdeɪ|thứ Năm|The shop opens on Thursday.
+Friday|ˈfraɪdeɪ|thứ Sáu|Let's meet on Friday.
+Saturday|ˈsætərdeɪ|thứ Bảy|I'm busy on Saturday.
+Sunday|ˈsʌndeɪ|Chủ nhật|We visit family on Sunday.
+weekday|ˈwiːkdeɪ|ngày trong tuần từ thứ Hai đến thứ Sáu|Can we meet on a weekday?
+date|deɪt|ngày tháng; cũng có nghĩa cuộc hẹn|What's the date today?
+calendar|ˈkæləndər|lịch|Put it on your calendar.
+month|mʌnθ|tháng|I'm moving next month.
+year|jɪr|năm|I'll finish the course this year.
+noon|nuːn|12 giờ trưa|Let's meet at noon.
+midnight|ˈmɪdnaɪt|12 giờ đêm|The train arrives at midnight.
+half past|hæf pæst|… giờ rưỡi|It's half past three.
+quarter past|ˈkwɔrtər pæst|… giờ mười lăm|It's quarter past two.
+quarter to|ˈkwɔrtər tuː|… giờ kém mười lăm|It's quarter to five.
+in advance|ɪn ədˈvæns|trước / từ trước|Please book in advance.
+as soon as possible|æz suːn æz ˈpɑsəbəl|sớm nhất có thể|Please reply as soon as possible.
+for a while|fər ə waɪl|một lúc / một thời gian|I'll stay for a while.
+from now on|frʌm naʊ ɑn|từ giờ trở đi|I'll use this notebook from now on.
+sooner or later|ˈsuːnər ɔr ˈleɪtər|sớm muộn gì|We'll find it sooner or later.
+before|bɪˈfɔr|trước|Please arrive before nine.
+after|ˈæftər|sau|I'll call after lunch.
+until|ənˈtɪl|cho đến khi / đến|The library is open until six.

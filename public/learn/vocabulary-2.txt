@@ -1,0 +1,130 @@
+# Đồ ăn & thức uống
+food|fuːd|đồ ăn|The food smells great.
+water|ˈwɔtər|nước|Could I have some water?
+rice|raɪs|cơm / gạo|We have rice for dinner.
+noodles|ˈnuːdəlz|mì / bún / phở (sợi)|I'd like a bowl of noodles.
+bread|bred|bánh mì|Would you like some bread?
+egg|eɡ|trứng|I'll have a boiled egg.
+chicken|ˈtʃɪkɪn|thịt gà / con gà|This chicken is delicious.
+beef|biːf|thịt bò|Does this soup contain beef?
+fish|fɪʃ|cá|We bought some fresh fish.
+vegetable|ˈvedʒtəbəl|rau củ|This dish has lots of vegetables.
+fruit|fruːt|trái cây|Would you like some fruit?
+apple|ˈæpəl|quả táo|I'll take an apple.
+banana|bəˈnænə|quả chuối|There's a banana in my bag.
+milk|mɪlk|sữa|Do you have any milk?
+tea|tiː|trà|I'd like a cup of tea.
+juice|dʒuːs|nước ép|I'll have orange juice.
+soup|suːp|súp / canh|The soup is still hot.
+sandwich|ˈsænwɪtʃ|bánh mì kẹp|I made a cheese sandwich.
+snack|snæk|đồ ăn nhẹ|Let's get a snack.
+sweet|swiːt|ngọt|This mango is sweet.
+salty|ˈsɔlti|mặn|The soup is a little salty.
+spicy|ˈspaɪsi|cay|Is this dish spicy?
+sour|ˈsaʊər|chua|These grapes taste sour.
+delicious|dɪˈlɪʃəs|ngon|That was delicious.
+fresh|freʃ|tươi / mới|The bread is fresh.
+# Nhà hàng & gọi món
+restaurant|ˈrestərɑnt|nhà hàng|Let's try that restaurant.
+cafe|kæˈfeɪ|quán cà phê|Meet me at the cafe.
+menu|ˈmenjuː|thực đơn|Could we see the menu?
+order|ˈɔrdər|gọi món / đơn hàng|Are you ready to order?
+I'd like|aɪd laɪk|tôi muốn (lịch sự)|I'd like the chicken, please.
+I'll have|aɪl hæv|tôi chọn / tôi gọi|I'll have the soup.
+recommend|ˌrekəˈmend|giới thiệu / đề xuất|What do you recommend?
+table for two|ˈteɪbəl fər tuː|bàn cho hai người|A table for two, please.
+reservation|ˌrezərˈveɪʃən|việc đặt chỗ|We have a reservation at seven.
+available|əˈveɪləbəl|còn / có sẵn|Is a window table available?
+waiter|ˈweɪtər|nhân viên nam phục vụ bàn|The waiter brought our food.
+server|ˈsɝvər|nhân viên phục vụ bàn (Mỹ)|Let's ask our server.
+bill|bɪl|hóa đơn (thường dùng ở Anh)|Could we have the bill, please?
+check|tʃek|hóa đơn nhà hàng (Mỹ)|Could we get the check, please?
+to go|tə ɡoʊ|mang đi (Mỹ)|A sandwich to go, please.
+eat in|iːt ɪn|ăn tại quán trong ngữ cảnh gọi món|We'd like to eat in.
+on the side|ɑn ðə saɪd|để riêng ra bên cạnh|Could I have the sauce on the side?
+without|wɪˈðaʊt|không có / bỏ|Can I have it without onions?
+extra|ˈekstrə|thêm|Could I have extra rice?
+less sugar|les ˈʃʊɡər|ít đường hơn|Less sugar, please.
+no ice|noʊ aɪs|không đá|Orange juice with no ice, please.
+allergic to|əˈlɝdʒɪk tuː|dị ứng với|I'm allergic to peanuts.
+vegetarian|ˌvedʒəˈteriən|chay / người ăn chay|Do you have a vegetarian option?
+split the bill|splɪt ðə bɪl|chia tiền hóa đơn|Shall we split the bill?
+grab a bite|ɡræb ə baɪt|ăn nhanh / ăn chút gì (thân mật)|Let's grab a bite before we leave.
+# Mua sắm & thanh toán
+shop|ʃɑp|cửa hàng / mua sắm|There's a shop near my house.
+store|stɔr|cửa hàng (phổ biến ở Mỹ)|The store closes at nine.
+supermarket|ˈsuːpərˌmɑrkɪt|siêu thị|I'm going to the supermarket.
+price|praɪs|giá|What's the price of this bag?
+how much|haʊ mʌtʃ|bao nhiêu tiền / bao nhiêu lượng|How much is this?
+cheap|tʃiːp|rẻ|These notebooks are cheap.
+expensive|ɪkˈspensɪv|đắt|That jacket is too expensive for me.
+discount|ˈdɪskaʊnt|giảm giá|Is there a student discount?
+on sale|ɑn seɪl|đang giảm giá (Mỹ)|These shoes are on sale.
+size|saɪz|kích cỡ|Do you have this in my size?
+color|ˈkʌlər|màu sắc|Do you have another color?
+try on|traɪ ɑn|thử mặc / thử đeo|Can I try on this jacket?
+fit|fɪt|vừa vặn|These shoes fit well.
+too small|tuː smɔl|quá nhỏ|This shirt is too small.
+too big|tuː bɪɡ|quá lớn|This bag is too big.
+cash|kæʃ|tiền mặt|Can I pay in cash?
+card|kɑrd|thẻ|Do you accept cards?
+pay by card|peɪ baɪ kɑrd|thanh toán bằng thẻ|I'd like to pay by card.
+receipt|rɪˈsiːt|biên lai|Can I have a receipt?
+change|tʃeɪndʒ|tiền thối lại / tiền lẻ|Here's your change.
+refund|ˈriːfʌnd|tiền hoàn lại (danh từ)|Could I get a refund?
+return|rɪˈtɝn|trả lại|I'd like to return this shirt.
+exchange|ɪksˈtʃeɪndʒ|đổi hàng|Can I exchange this for a larger size?
+out of stock|aʊt əv stɑk|hết hàng|Sorry, that color is out of stock.
+just looking|dʒʌst ˈlʊkɪŋ|chỉ xem thôi|I'm just looking, thanks.
+# Quần áo & đồ mang theo
+clothes|kloʊðz|quần áo|I need some clean clothes.
+shirt|ʃɝt|áo sơ mi / áo nói chung|I like your blue shirt.
+T-shirt|ˈtiː ʃɝt|áo thun|I'll wear a T-shirt.
+pants|pænts|quần dài (Mỹ)|These pants are comfortable.
+jeans|dʒiːnz|quần bò|I'm wearing jeans today.
+shorts|ʃɔrts|quần đùi|Pack some shorts for the trip.
+dress|dres|váy liền|This dress has pockets.
+skirt|skɝt|chân váy|She bought a green skirt.
+jacket|ˈdʒækɪt|áo khoác ngắn|Bring a jacket. It's windy.
+coat|koʊt|áo khoác ngoài / áo măng tô|Hang your coat here.
+sweater|ˈswetər|áo len|This sweater feels soft.
+shoes|ʃuːz|giày|Please take off your shoes.
+socks|sɑks|tất / vớ|I need a pair of socks.
+hat|hæt|mũ|Don't forget your hat.
+glasses|ˈɡlæsɪz|kính mắt|Where are my glasses?
+sunglasses|ˈsʌnˌɡlæsɪz|kính râm|I left my sunglasses at home.
+watch|wɑtʃ|đồng hồ đeo tay|My watch is five minutes slow.
+bag|bæɡ|túi|Is this your bag?
+backpack|ˈbækpæk|ba lô|My backpack is under the desk.
+wallet|ˈwɑlɪt|ví|I put the receipt in my wallet.
+umbrella|ʌmˈbrelə|ô / dù|Take an umbrella with you.
+wear|wer|mặc / mang trên người|What should I wear?
+put on|pʊt ɑn|mặc vào / đeo vào|Put on your jacket.
+take off|teɪk ɔf|cởi ra; cũng có nghĩa cất cánh|You can take off your coat.
+comfortable|ˈkʌmfərtəbəl|thoải mái|These shoes are comfortable.
+# Thời gian & lịch hẹn
+today|təˈdeɪ|hôm nay|I'm busy today.
+tomorrow|təˈmɑroʊ|ngày mai|See you tomorrow.
+yesterday|ˈjestərdeɪ|hôm qua|I called you yesterday.
+morning|ˈmɔrnɪŋ|buổi sáng|I study in the morning.
+afternoon|ˌæftərˈnuːn|buổi chiều|Let's meet this afternoon.
+evening|ˈiːvnɪŋ|buổi tối|I'm free this evening.
+tonight|təˈnaɪt|tối nay|What are you doing tonight?
+weekend|ˈwiːkend|cuối tuần|Have a good weekend.
+next week|nekst wiːk|tuần tới|The course starts next week.
+last week|læst wiːk|tuần trước|I was there last week.
+minute|ˈmɪnɪt|phút|I'll be ready in a minute.
+hour|aʊər|giờ / tiếng đồng hồ|It takes about an hour.
+early|ˈɝli|sớm|You're early today.
+late|leɪt|muộn|Sorry I'm late.
+on time|ɑn taɪm|đúng giờ|The bus arrived on time.
+free|friː|rảnh; cũng có nghĩa miễn phí|Are you free on Saturday?
+busy|ˈbɪzi|bận|I'm busy until four.
+appointment|əˈpɔɪntmənt|cuộc hẹn|I have an appointment at two.
+schedule|ˈskedʒuːl|lịch trình (giọng Mỹ)|Let me check my schedule.
+make plans|meɪk plænz|lên kế hoạch|Let's make plans for Sunday.
+reschedule|ˌriːˈskedʒuːl|đổi lịch|Could we reschedule our meeting?
+cancel|ˈkænsəl|hủy|I need to cancel my appointment.
+works for me|wɝks fər miː|phù hợp / tôi được|Three o'clock works for me.
+running late|ˈrʌnɪŋ leɪt|đang bị trễ|I'm running late. Sorry!
+right now|raɪt naʊ|ngay bây giờ|I can't talk right now.

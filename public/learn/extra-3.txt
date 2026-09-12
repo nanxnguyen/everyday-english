@@ -1,0 +1,130 @@
+# 10
+road|roʊd|đường|This road goes to the station.
+street|striːt|đường phố|What street do you live on?
+sidewalk|ˈsaɪdwɔk|vỉa hè (Mỹ)|Please stay on the sidewalk.
+crosswalk|ˈkrɔswɔk|vạch sang đường (Mỹ)|Use the crosswalk over there.
+traffic light|ˈtræfɪk laɪt|đèn giao thông|Turn left at the traffic light.
+bridge|brɪdʒ|cầu|The bridge is closed today.
+roundabout|ˈraʊndəbaʊt|vòng xuyến|Take the second exit at the roundabout.
+block|blɑk|đoạn phố giữa hai giao lộ|It's one block from here.
+route|ruːt|tuyến đường|What's the quickest route?
+direction|dəˈrekʃən|hướng|Are we going in the right direction?
+distance|ˈdɪstəns|khoảng cách|What's the distance to the station?
+fare|fer|giá vé / tiền cước|How much is the bus fare?
+passenger|ˈpæsəndʒər|hành khách|Each passenger needs a ticket.
+driver|ˈdraɪvər|tài xế|Ask the driver where to get off.
+seat|siːt|chỗ ngồi|Is this seat taken?
+seat belt|ˈsiːt belt|dây an toàn|Please fasten your seat belt.
+platform|ˈplætfɔrm|sân ga|Which platform does the train leave from?
+transfer|trænsˈfɝ|chuyển tuyến (động từ)|We need to transfer at the next station.
+one-way ticket|ˌwʌn weɪ ˈtɪkɪt|vé một chiều|I'd like a one-way ticket.
+round-trip ticket|ˌraʊnd trɪp ˈtɪkɪt|vé khứ hồi (Mỹ)|How much is a round-trip ticket?
+on foot|ɑn fʊt|đi bộ|Can we get there on foot?
+get in|ɡet ɪn|lên / vào ô tô|You can get in the car now.
+get out|ɡet aʊt|ra khỏi / xuống ô tô|We can get out here.
+I'm lost|aɪm lɔst|tôi bị lạc|Excuse me, I'm lost.
+how long does it take|haʊ lɔŋ dʌz ɪt teɪk|mất bao lâu|How long does it take to get there?
+# 11
+destination|ˌdestəˈneɪʃən|điểm đến|What's your final destination?
+itinerary|aɪˈtɪnəreri|lịch trình chuyến đi|Can you send me the itinerary?
+booking|ˈbʊkɪŋ|việc / thông tin đặt chỗ|I'd like to confirm my booking.
+confirmation|ˌkɑnfərˈmeɪʃən|xác nhận|I received a confirmation email.
+boarding|ˈbɔrdɪŋ|việc lên máy bay / tàu|What time does boarding start?
+carry-on|ˈkeri ɑn|hành lý xách tay|Is this bag allowed as a carry-on?
+baggage claim|ˈbæɡɪdʒ kleɪm|khu nhận hành lý (Mỹ)|Where is baggage claim?
+security check|sɪˈkjʊrəti tʃek|kiểm tra an ninh|Where is the security check?
+customs|ˈkʌstəmz|hải quan|Do we go through customs here?
+aisle seat|aɪl siːt|ghế cạnh lối đi|Could I have an aisle seat?
+window seat|ˈwɪndoʊ siːt|ghế cạnh cửa sổ|I'd prefer a window seat.
+connecting flight|kəˈnektɪŋ flaɪt|chuyến bay nối chuyến|We have a connecting flight in Seoul.
+land|lænd|hạ cánh / đất liền|What time do we land?
+depart|dɪˈpɑrt|khởi hành|When does the train depart?
+arrive|əˈraɪv|đến nơi|What time will you arrive?
+receptionist|rɪˈsepʃənɪst|nhân viên lễ tân|The receptionist gave us a map.
+key card|kiː kɑrd|thẻ khóa phòng|My key card isn't working.
+elevator lobby|ˈeləveɪtər ˈlɑbi|sảnh thang máy|Let's meet in the elevator lobby.
+twin room|twɪn ruːm|phòng hai giường đơn|We'd like a twin room.
+room service|ruːm ˈsɝvɪs|dịch vụ phục vụ tại phòng|Is room service available?
+housekeeping|ˈhaʊskiːpɪŋ|bộ phận dọn phòng|Could you call housekeeping?
+souvenir|ˌsuːvəˈnɪr|quà lưu niệm|I'm looking for a small souvenir.
+guide|ɡaɪd|hướng dẫn viên / tài liệu hướng dẫn|Our guide knows the city well.
+local|ˈloʊkəl|địa phương|I'd like to try some local food.
+get around|ɡet əˈraʊnd|đi lại trong một khu vực|Is it easy to get around without a car?
+# 12
+sun|sʌn|mặt trời|The sun is coming out.
+moon|muːn|mặt trăng|The moon is bright tonight.
+star|stɑr|ngôi sao|Can you see that bright star?
+sky|skaɪ|bầu trời|The sky is clear.
+cloud|klaʊd|đám mây|That cloud looks like a cat.
+fog|fɑɡ|sương mù|There's thick fog this morning.
+foggy|ˈfɑɡi|có sương mù|It's foggy outside.
+rainbow|ˈreɪnboʊ|cầu vồng|There's a rainbow over the river.
+thunder|ˈθʌndər|sấm|I can hear thunder.
+lightning|ˈlaɪtnɪŋ|chớp / sét|Did you see the lightning?
+breeze|briːz|gió nhẹ|There's a nice breeze today.
+freezing|ˈfriːzɪŋ|rất lạnh / đóng băng|It's freezing outside.
+dry|draɪ|khô|The air feels dry today.
+wet|wet|ướt|My shoes are wet.
+clear up|klɪr ʌp|trời quang lên; cũng có nghĩa làm rõ / dọn dẹp|I hope it will clear up soon.
+pouring|ˈpɔrɪŋ|mưa rất to trong it's pouring|It's pouring outside.
+degrees|dɪˈɡriːz|độ (nhiệt độ / góc)|It's twenty degrees today.
+shade|ʃeɪd|bóng râm|Let's sit in the shade.
+lake|leɪk|hồ|There's a lake near our hotel.
+forest|ˈfɔrɪst|rừng|The forest is very quiet.
+island|ˈaɪlənd|đảo|We're visiting an island tomorrow.
+ocean|ˈoʊʃən|đại dương|You can see the ocean from here.
+flower|ˈflaʊər|hoa|What is this flower called?
+grass|ɡræs|cỏ|The grass is wet.
+leaf|liːf|lá cây; số nhiều leaves|There's a leaf on your bag.
+# 13
+calm|kɑm|bình tĩnh|Try to stay calm.
+lonely|ˈloʊnli|cô đơn|I sometimes feel lonely in a new place.
+disappointed|ˌdɪsəˈpɔɪntɪd|thất vọng|I'm disappointed that the trip was canceled.
+frustrated|ˈfrʌstreɪtɪd|bực vì không đạt điều muốn làm|I feel frustrated when the app doesn't work.
+embarrassed|ɪmˈbærəst|ngượng ngùng / xấu hổ|I felt embarrassed about forgetting his name.
+grateful|ˈɡreɪtfəl|biết ơn|I'm grateful for your help.
+relieved|rɪˈliːvd|nhẹ nhõm|I'm relieved that we found the keys.
+curious|ˈkjʊriəs|tò mò|I'm curious about your hometown.
+interested|ˈɪntrəstɪd|quan tâm / hứng thú|I'm interested in photography.
+hopeful|ˈhoʊpfəl|có hy vọng|I feel hopeful about the future.
+jealous|ˈdʒeləs|ghen / ganh tị|I felt jealous of his new bike.
+serious|ˈsɪriəs|nghiêm túc|Are you serious?
+polite|pəˈlaɪt|lịch sự|He was very polite.
+rude|ruːd|thô lỗ|That comment sounded rude.
+generous|ˈdʒenərəs|hào phóng|That's very generous of you.
+reliable|rɪˈlaɪəbəl|đáng tin cậy|She's a reliable teammate.
+creative|kriˈeɪtɪv|sáng tạo|That's a creative idea.
+easygoing|ˌiːziˈɡoʊɪŋ|dễ tính|My roommate is easygoing.
+stubborn|ˈstʌbərn|bướng bỉnh|I can be a bit stubborn sometimes.
+thoughtful|ˈθɔtfəl|chu đáo|That was thoughtful of you.
+cheer up|tʃɪr ʌp|vui lên / làm ai vui hơn|A walk might help me cheer up.
+calm down|kɑm daʊn|bình tĩnh lại|I need a minute to calm down.
+feel left out|fiːl left aʊt|cảm thấy bị bỏ ngoài cuộc|I feel left out when everyone talks at once.
+in a good mood|ɪn ə ɡʊd muːd|đang vui / tâm trạng tốt|You seem in a good mood today.
+fed up with|fed ʌp wɪð|chán ngấy / bực vì|I'm fed up with this slow connection.
+# 14
+neck|nek|cổ|My neck feels stiff.
+shoulder|ˈʃoʊldər|vai|My shoulder is a little sore.
+knee|niː|đầu gối|My knee hurts today.
+finger|ˈfɪŋɡər|ngón tay|Which finger hurts?
+thumb|θʌm|ngón tay cái|My thumb feels sore.
+skin|skɪn|da|This soap makes my skin dry.
+chest|tʃest|ngực|My chest feels uncomfortable.
+throat|θroʊt|họng|My throat feels dry.
+pain|peɪn|cơn đau / sự đau|Where is the pain?
+ache|eɪk|đau âm ỉ|My legs ache after the long walk.
+dizzy|ˈdɪzi|chóng mặt|I feel dizzy.
+weak|wiːk|yếu / mệt lả|I feel weak today.
+runny nose|ˈrʌni noʊz|sổ mũi|I have a runny nose.
+sneeze|sniːz|hắt hơi|Dust makes me sneeze.
+catch a cold|kætʃ ə koʊld|bị cảm lạnh|I don't want to catch a cold.
+stomachache|ˈstʌməkeɪk|đau bụng|I have a stomachache.
+toothache|ˈtuːθeɪk|đau răng|I have a toothache.
+nurse|nɝs|y tá / điều dưỡng|The nurse will see you now.
+dentist|ˈdentɪst|nha sĩ|I have an appointment with the dentist.
+clinic|ˈklɪnɪk|phòng khám|The clinic opens at eight.
+hospital|ˈhɑspɪtəl|bệnh viện|Where is the nearest hospital?
+checkup|ˈtʃekʌp|buổi khám kiểm tra sức khỏe|I'm here for a checkup.
+symptom|ˈsɪmptəm|triệu chứng|When did this symptom start?
+get well soon|ɡet wel suːn|chúc mau khỏe|Get well soon. Take care.
+not feeling well|nɑt ˈfiːlɪŋ wel|không thấy khỏe|I'm not feeling well today.

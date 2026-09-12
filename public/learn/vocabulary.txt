@@ -1,0 +1,130 @@
+# Chào hỏi & làm quen
+hello|həˈloʊ|xin chào|Hello, I'm Linh.
+hi|haɪ|chào (thân mật)|Hi, how are you?
+good morning|ɡʊd ˈmɔrnɪŋ|chào buổi sáng|Good morning, everyone.
+good afternoon|ɡʊd ˌæftərˈnuːn|chào buổi chiều|Good afternoon, Ms. Lee.
+good evening|ɡʊd ˈiːvnɪŋ|chào buổi tối|Good evening. Come in.
+good night|ɡʊd naɪt|chúc ngủ ngon / chào lúc chia tay buổi tối|Good night. Sleep well.
+goodbye|ˌɡʊdˈbaɪ|tạm biệt|Goodbye. Have a safe trip.
+see you later|siː juː ˈleɪtər|gặp lại sau|See you later, Minh.
+take care|teɪk ker|giữ gìn sức khỏe nhé|Take care. See you soon.
+welcome|ˈwelkəm|chào mừng|Welcome to our home.
+nice to meet you|naɪs tə miːt juː|rất vui được gặp bạn|Nice to meet you, Anna.
+how are you|haʊ ɑr juː|bạn khỏe không|How are you today?
+how's it going|haʊz ɪt ˈɡoʊɪŋ|dạo này thế nào (thân mật)|Hey, how's it going?
+pretty good|ˈprɪti ɡʊd|khá ổn|I'm pretty good, thanks.
+not bad|nɑt bæd|cũng ổn|Not bad. How about you?
+how about you|haʊ əˈbaʊt juː|còn bạn thì sao|I like tea. How about you?
+long time no see|lɔŋ taɪm noʊ siː|lâu rồi không gặp (thân mật)|Long time no see! How are you?
+what's your name|wʌts jʊr neɪm|bạn tên gì|I'm Mai. What's your name?
+my name is|maɪ neɪm ɪz|tên tôi là|My name is Alex.
+call me|kɔl miː|hãy gọi tôi là|You can call me Sam.
+where are you from|wer ɑr juː frʌm|bạn đến từ đâu|Where are you from, Ben?
+I'm from|aɪm frʌm|tôi đến từ|I'm from Vietnam.
+I live in|aɪ lɪv ɪn|tôi sống ở|I live in Da Nang.
+this is|ðɪs ɪz|đây là (giới thiệu)|This is my friend, Nam.
+have a nice day|hæv ə naɪs deɪ|chúc một ngày tốt lành|Thanks. Have a nice day!
+# Lịch sự & nhờ giúp đỡ
+please|pliːz|làm ơn / vui lòng|Please close the door.
+thank you|θæŋk juː|cảm ơn|Thank you for your help.
+thanks a lot|θæŋks ə lɑt|cảm ơn nhiều|Thanks a lot for the ride.
+you're welcome|jʊr ˈwelkəm|không có gì (đáp lời cảm ơn)|You're welcome. Happy to help.
+no worries|noʊ ˈwɝiz|không sao đâu (thân mật)|No worries. We have time.
+excuse me|ɪkˈskjuːz miː|xin phép / cho tôi hỏi|Excuse me, is this seat free?
+I'm sorry|aɪm ˈsɑri|tôi xin lỗi|I'm sorry I'm late.
+my mistake|maɪ mɪˈsteɪk|lỗi của tôi|My mistake. This is your bag.
+that's okay|ðæts oʊˈkeɪ|không sao đâu|That's okay. Don't worry.
+don't worry|doʊnt ˈwɝi|đừng lo|Don't worry. I'll help you.
+could you help me|kʊd juː help miː|bạn giúp tôi được không|Could you help me with this box?
+give me a hand|ɡɪv miː ə hænd|giúp tôi một tay|Could you give me a hand?
+can I have|kæn aɪ hæv|cho tôi xin / tôi có thể có|Can I have some water, please?
+may I|meɪ aɪ|tôi có thể… không (lịch sự)|May I sit here?
+would you mind|wʊd juː maɪnd|bạn có phiền… không; theo sau bằng V-ing|Would you mind opening the window?
+go ahead|ɡoʊ əˈhed|cứ làm đi / bạn nói đi|Sure, go ahead.
+after you|ˈæftər juː|mời bạn đi trước|After you. I'll hold the door.
+of course|əv kɔrs|tất nhiên|Of course. You can join us.
+sure|ʃʊr|được thôi / chắc chắn|Sure, I can help.
+just a moment|dʒʌst ə ˈmoʊmənt|chờ một chút|Just a moment, please.
+take your time|teɪk jʊr taɪm|cứ từ từ|Take your time. We're early.
+let me help|let miː help|để tôi giúp|Let me help with your bag.
+I appreciate it|aɪ əˈpriːʃieɪt ɪt|tôi rất cảm kích|Thanks for waiting. I appreciate it.
+that's kind of you|ðæts kaɪnd əv juː|bạn thật tốt bụng|That's kind of you. Thank you.
+sorry to bother you|ˈsɑri tə ˈbɑðər juː|xin lỗi vì làm phiền|Sorry to bother you. Is this yours?
+# Gia đình & các mối quan hệ
+family|ˈfæməli|gia đình|My family lives nearby.
+parent|ˈperənt|cha hoặc mẹ|A parent needs to sign this form.
+mother|ˈmʌðər|mẹ|My mother likes gardening.
+father|ˈfɑðər|bố|My father is cooking dinner.
+sister|ˈsɪstər|chị / em gái|My sister is at home.
+brother|ˈbrʌðər|anh / em trai|I have a younger brother.
+sibling|ˈsɪblɪŋ|anh chị em ruột|Do you have any siblings?
+grandmother|ˈɡrænmʌðər|bà|My grandmother tells great stories.
+grandfather|ˈɡrænfɑðər|ông|My grandfather walks every morning.
+aunt|ænt|cô / dì / bác gái|My aunt is visiting us.
+uncle|ˈʌŋkəl|chú / cậu / bác trai|My uncle lives in Hue.
+cousin|ˈkʌzən|anh chị em họ|I'm meeting my cousin today.
+child|tʃaɪld|đứa trẻ / con|Their child loves drawing.
+son|sʌn|con trai|Her son is learning English.
+daughter|ˈdɔtər|con gái|His daughter plays the piano.
+friend|frend|bạn bè|A friend is coming over.
+classmate|ˈklæsmeɪt|bạn cùng lớp|She's my classmate.
+neighbor|ˈneɪbər|hàng xóm|Our neighbor has a dog.
+roommate|ˈruːmmeɪt|người ở cùng phòng|My roommate is very quiet.
+relative|ˈrelətɪv|họ hàng|We're visiting relatives this weekend.
+only child|ˌoʊnli ˈtʃaɪld|con một|I'm an only child.
+get along with|ɡet əˈlɔŋ wɪð|hòa hợp với|I get along with my sister.
+spend time with|spend taɪm wɪð|dành thời gian với|I spend time with my family.
+keep in touch|kiːp ɪn tʌtʃ|giữ liên lạc|Let's keep in touch.
+grow up|ɡroʊ ʌp|lớn lên|Where did you grow up?
+# Thói quen hằng ngày
+wake up|weɪk ʌp|thức giấc|I wake up at seven.
+get up|ɡet ʌp|dậy khỏi giường|I get up after my alarm rings.
+brush my teeth|brʌʃ maɪ tiːθ|đánh răng; đổi my theo chủ ngữ|I brush my teeth after breakfast.
+wash my face|wɑʃ maɪ feɪs|rửa mặt; đổi my theo chủ ngữ|I wash my face with water.
+take a shower|teɪk ə ˈʃaʊər|tắm vòi sen|I take a shower in the evening.
+get dressed|ɡet drest|mặc quần áo|I get dressed before breakfast.
+get ready|ɡet ˈredi|chuẩn bị sẵn sàng|I need ten minutes to get ready.
+have breakfast|hæv ˈbrekfəst|ăn sáng|I have breakfast at home.
+leave home|liːv hoʊm|rời nhà|I leave home at eight.
+head out|hed aʊt|ra ngoài / lên đường|I'm heading out now.
+get home|ɡet hoʊm|về đến nhà|I get home around six.
+have lunch|hæv lʌntʃ|ăn trưa|Let's have lunch together.
+have dinner|hæv ˈdɪnər|ăn tối|We have dinner at seven.
+take a break|teɪk ə breɪk|nghỉ một chút|Let's take a break.
+take a nap|teɪk ə næp|ngủ một giấc ngắn|I sometimes take a nap.
+go for a walk|ɡoʊ fər ə wɔk|đi dạo|Let's go for a walk.
+do the dishes|duː ðə ˈdɪʃɪz|rửa bát|I'll do the dishes tonight.
+do the laundry|duː ðə ˈlɔndri|giặt quần áo|We do the laundry on Saturday.
+tidy up|ˈtaɪdi ʌp|dọn gọn gàng|Let's tidy up the room.
+go to bed|ɡoʊ tə bed|đi ngủ / lên giường|I go to bed at ten.
+fall asleep|fɔl əˈsliːp|ngủ thiếp đi / bắt đầu ngủ|I fall asleep quickly.
+stay up|steɪ ʌp|thức khuya / chưa đi ngủ|I don't want to stay up late.
+usually|ˈjuːʒuəli|thường xuyên|I usually walk to school.
+sometimes|ˈsʌmtaɪmz|thỉnh thoảng|I sometimes cook lunch.
+every day|ˈevri deɪ|mỗi ngày|I practice English every day.
+# Nhà cửa & đồ dùng
+home|hoʊm|nhà / tổ ấm|I'm at home today.
+house|haʊs|ngôi nhà|Their house has a small garden.
+apartment|əˈpɑrtmənt|căn hộ|We live in an apartment.
+room|ruːm|phòng|This room is bright.
+bedroom|ˈbedruːm|phòng ngủ|My bedroom is upstairs.
+bathroom|ˈbæθruːm|phòng tắm / nhà vệ sinh|Where's the bathroom?
+kitchen|ˈkɪtʃən|nhà bếp|Dad is in the kitchen.
+living room|ˈlɪvɪŋ ruːm|phòng khách|Let's sit in the living room.
+door|dɔr|cửa ra vào|Please shut the door.
+window|ˈwɪndoʊ|cửa sổ|Can you open the window?
+floor|flɔr|sàn nhà / tầng|My room is on the second floor.
+wall|wɔl|tường|There's a clock on the wall.
+table|ˈteɪbəl|bàn|Put the cups on the table.
+chair|tʃer|ghế|Is this chair free?
+sofa|ˈsoʊfə|ghế sofa|The cat is on the sofa.
+bed|bed|giường|This bed is comfortable.
+pillow|ˈpɪloʊ|gối|Could I have another pillow?
+blanket|ˈblæŋkɪt|chăn|Here's a warm blanket.
+towel|ˈtaʊəl|khăn tắm / khăn lau|I need a clean towel.
+key|kiː|chìa khóa|I can't find my key.
+light|laɪt|đèn / ánh sáng|Please turn on the light.
+fridge|frɪdʒ|tủ lạnh|The milk is in the fridge.
+air conditioner|ˈer kənˌdɪʃənər|máy điều hòa|Can we turn off the air conditioner?
+plug in|plʌɡ ɪn|cắm điện|Can I plug in my laptop here?
+run out of|rʌn aʊt əv|hết / cạn thứ gì|We've run out of soap.
